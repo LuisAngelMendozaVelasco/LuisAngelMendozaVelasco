@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there, I am Luis Mendoza 👋
+
+I am interested in everything related to data science, machine learning and artificial intelligence.
+
+I like experimenting and learning new technologies, programming languages and tools.
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisAngelMendozaVelasco&show_icons=true&locale=en&layout=compact" alt="LuisAngelMendozaVelasco-MostUsedLanguages">
+</p>
 
 <!--
 **LuisAngelMendozaVelasco/LuisAngelMendozaVelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
